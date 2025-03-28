@@ -1,0 +1,10 @@
+Mods: {
+	TerrarianSky: {
+		Items: {
+			Recaller: {
+				DisplayName: Recaller
+				Tooltip: ""
+			}
+		}
+	}
+}
